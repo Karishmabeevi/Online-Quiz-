@@ -42,3 +42,11 @@ How to Use
 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Screenshot:
+
+![Q1](https://github.com/Karishmabeevi/Online-Quiz-/assets/165314643/e22d5df1-e81e-4aca-85a9-a92ecde05e94)
+![Q2](https://github.com/Karishmabeevi/Online-Quiz-/assets/165314643/8c68cf86-3e2e-415d-a721-df7c9295d38c)
+![Q3](https://github.com/Karishmabeevi/Online-Quiz-/assets/165314643/666745dc-37f6-4d9f-8eef-cb9400b94880)
+![RESULT](https://github.com/Karishmabeevi/Online-Quiz-/assets/165314643/dd325e40-656b-4172-bb30-613d3c74065a)
+
