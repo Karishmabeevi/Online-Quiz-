@@ -4,14 +4,14 @@ This is a simple Java program for conducting online tests with GUI using Swing.
 
 Technology used:
 
-1.Java Swing
-2.ActionListener Interface
-3.JFrame
-4.JRadioButton
-5.JButton
-6.ButtonGroup
-7.JLabel
-8.JOptionPane
+1. Java Swing
+2. ActionListener Interface
+3. JFrame
+4. JRadioButton
+5. JButton
+6. ButtonGroup
+7. JLabel
+8. JOptionPane
 
 Features
 
